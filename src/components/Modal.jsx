@@ -1,11 +1,11 @@
 import './Modal.css'
 function Modal({title}) {
-    function confirmModal(){
-        console.log("Confirm")
-    }
-    function cancelModal(){
-        console.log("Cancel")
-    }
+    // function confirmModal(){
+    //     console.log("Confirm")
+    // }
+    // function cancelModal(){
+    //     console.log("Cancel")
+    // }
   return (
     <>
       <div className="modal">
