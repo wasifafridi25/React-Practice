@@ -1,5 +1,5 @@
 import './Modal.css'
-function Modal({title}) {
+function Modal({ title, confirmModal, cancelModal }) {
     // function confirmModal(){
     //     console.log("Confirm")
     // }
